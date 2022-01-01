@@ -1,4 +1,6 @@
 # JukeBot
+![Untitled](https://user-images.githubusercontent.com/82789205/147846291-f59c4f06-83db-4b51-a47b-9bc0ac0931d6.png)
+
 
 ## Commands
 Here are a list of commands you can use with JukeBot!
